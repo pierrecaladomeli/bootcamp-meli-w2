@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "listaPedidos": [
+      {
+        "id": 1,
+        "listaPratos": [
+          {
+            "id": 1,
+            "preco": 15.99,
+            "descricao": "Bife à milanesa",
+            "quantidade": 2
+          },
+          {
+            "id": 2,
+            "preco": 3.99,
+            "descricao": "Porção de batata frita",
+            "quantidade": 1
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "listaPratos": [
+          {
+            "id": 1,
+            "preco": 15.99,
+            "descricao": "Bife à milanesa",
+            "quantidade": 1
+          },
+          {
+            "id": 2,
+            "preco": 3.99,
+            "descricao": "Porção de batata frita",
+            "quantidade": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "listaPedidos": [
+      {
+        "id": 2,
+        "listaPratos": [
+          {
+            "id": 3,
+            "preco": 7.25,
+            "descricao": "Fatia de Bolo",
+            "quantidade": 1
+          },
+          {
+            "id": 4,
+            "preco": 5.99,
+            "descricao": "Refrigerante Guaraná",
+            "quantidade": 1
+          }
+        ]
+      }
+    ]
+  }
+]
